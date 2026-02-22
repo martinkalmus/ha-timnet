@@ -1,6 +1,6 @@
 # TimNet Home Assistant Integration
 
-Custom Home Assistant integration for TimNet heating controllers over Modbus TCP.
+Custom Home Assistant integration for TimNet kamna over Modbus TCP.
 
 ## Features
 

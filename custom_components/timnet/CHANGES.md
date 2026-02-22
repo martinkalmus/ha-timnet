@@ -2,7 +2,7 @@
 
 ## 📋 Summary of Changes
 
-This is a complete rewrite of the TimNet integration with **corrected register addresses** that match the device manual. Your device has been repaired by the manufacturer and now returns the correct values at the documented register addresses.
+This is a complete rewrite of the TimNet kamna integration with **corrected register addresses** that match the device manual. Your device has been repaired by the manufacturer and now returns the correct values at the documented register addresses.
 
 ## 🔧 Key Changes from Old Version
 
