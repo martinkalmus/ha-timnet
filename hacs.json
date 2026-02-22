@@ -1,0 +1,7 @@
+{
+  "name": "TimNet Home Assistant Integration",
+  "content_in_root": false,
+  "domains": ["timnet"],
+  "homeassistant": "2024.1.0",
+  "country": ["CZ", "SK"]
+}
